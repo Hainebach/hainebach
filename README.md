@@ -1,6 +1,8 @@
 # Welcome to my page
 
 I am currently taking a webdevelopment bootcamp at SPICED academy
+![this is what I look like](https://images.squarespace-cdn.com/content/v1/585e23d48419c2d595b40b2f/1482656910197-DUCDBBO10U68LMGFZMHH/img009.jpg?format=1500w)
+
 
 <!--
 **Hainebach/hainebach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
