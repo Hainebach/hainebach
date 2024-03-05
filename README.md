@@ -1,6 +1,5 @@
-# Welcome to my page
-
-I am an artist, graduated an MFA program in painting from Boston University. Currently I am taking a web development bootcamp at SPICED academy in Berlin.
+# Welcome 
+.
 ![this is what I look like](https://images.squarespace-cdn.com/content/v1/585e23d48419c2d595b40b2f/1482656910197-DUCDBBO10U68LMGFZMHH/img009.jpg?format=1500w)
 
 [This is my website](http://www.yoavhainebach.com)
